@@ -1,7 +1,7 @@
 Hi there, I'm Haneef Ahamed 👋
 
-- 🔭 I’m currently a Master's in Information Science Student at University of Pittsburgh. 
+- 🔭 Data Scientist with Intereset in AI/ML
 - 🌱 I’m currently working as a AI and NLP Researcher at Pitt Clinical NLP and AI Innovation. 
 - 👯 I’m looking to collaborate on Hackathons.  
-- 💬 Ask me about Web Development, Machine Learning, Natural Language Processing and AI. 
+- 💬 Ask me about Machine Learning, Natural Language Processing, Large Language Models and AI. 
 - 📫 How to reach me: LinkedIn, Github
